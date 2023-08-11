@@ -15,5 +15,5 @@ export default defineNuxtConfig({
   ui: {
     icons: ['ph'],
   },
-  modules: ['@nuxthq/ui'],
+  modules: ['@nuxthq/ui', '@vueuse/nuxt'],
 })
